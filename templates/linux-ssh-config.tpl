@@ -1,4 +1,4 @@
-cat << EOF >> ~/.ssh/configuration
+cat << EOF >> ~/.ssh/config
 
 Host ${hostname}
   HostName ${hostname}
